@@ -1,7 +1,6 @@
 # Netflix-Data-Analysis
-Netflix-Data-Analysis
+![download](https://user-images.githubusercontent.com/103982094/209927060-8c7923cd-1c36-40ac-a7a6-c16ff7f9192f.png)
 
-download
 
 Importance Of Data Science
 
@@ -15,4 +14,5 @@ Everyone with a phone has a screen and access to the internet. That is our addre
 
 Data Science plays a critical role in not just deciding the functioning of Netflix but also presents them with newer opportunities to grow. New technologies often bring their fair share of issues with them, but at Netflix, they have been tackling those issues head-on, consistently by taking community inputs. By open-sourcing several of the libraries and frameworks to the community, Netflix aims to improve not just itself, but other companies as well. In the end, it would be incorrect to say that Netflix takes all its decisions based on Data Science insights as they still rely on human inputs from a lot of people.
 
-This project aims to build a movie recommendation mechanism and data analysis within Netflix. The dataset I used here come directly from Netflix. Netflix is not only a successful Service But it is completely a Data-Driven Service
+This project aims to build a movie recommendation mechanism and data analysis within Netflix. The dataset I used here come directly from Netflix.
+Netflix is not only a successful Service But it is completely a Data-Driven Service
